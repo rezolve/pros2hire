@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pros2hire-bf94e": {
+      "hosting": {
+        "pros2hire": [
+          "pros2hire-bf94e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pros2hire-bf94e"
+  }
+}

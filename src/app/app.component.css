@@ -1,0 +1,32 @@
+.top_logo {
+    width: 150px;
+    height: auto;
+}
+
+.top_spacer {
+    flex-grow: 1;
+}
+
+.top_bar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+}
+
+.top_right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10px;
+}
+
+.main_bar {
+    flex-grow: 1;
+    background-color: yellow;
+}
+
+.bott_bar {
+    background-color: red;
+}
